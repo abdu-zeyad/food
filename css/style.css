@@ -1,0 +1,20 @@
+header ul li{
+    display: inline;
+    background-color: lightblue;
+   
+}
+
+header ul{
+    text-align: center;
+}
+
+header p {
+    background-color: rgb(247, 179, 179);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#intro{
+font-size: 5ex;}
+
+main ul{
+    color: rgb(0, 185, 31);
+}
